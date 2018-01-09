@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA;;;;;;;;;GASG;ACNH,IAAI;EACF,WAAW,EAAE,wBAAwB;EACrC,SAAS,EAAE,KAAK",
+"sources": ["colors/_sass-material-colors-function.scss","main.scss"],
+"names": [],
+"file": "main.css"
+}

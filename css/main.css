@@ -1,0 +1,32 @@
+/**
+ * Retrieves a color value from the $material-colors Sass map
+ * Inspired by https://github.com/nilskaspersson/Google-Material-UI-Color-Palette/
+ *
+ * @function
+ * @param {string} color-name             - quoted, lower-case, dasherized color
+ *                                          name (e.g. 'pink', 'amber')
+ * @param {string} [color-variant='500']  - quoted, lowercase color variant (e.g.
+ *                                          '200', 'a100')
+ */
+body {
+  margin: 0; }
+
+#splash {
+  width: 100%;
+  height: 100vh;
+  margin: auto;
+  background: url("../img/splash.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-color: #BBDEFB; }
+
+#content {
+  padding: 10vh 0; }
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: .9rem; }
+
+/*# sourceMappingURL=main.css.map */

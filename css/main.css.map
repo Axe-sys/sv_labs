@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA;;;;;;;;;GASG;ACVH,IAAI;EACA,MAAM,EAAE,CAAC;;AAGb,OAAO;EACH,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK;EACb,MAAM,EAAE,IAAI;EACZ,UAAU,EAAE,sDAAsD;EAClE,uBAAuB,EAAE,KAAK;EAC9B,oBAAoB,EAAE,KAAK;EAC3B,eAAe,EAAE,KAAK;EACtB,kBAAkB,EAAE,KAAK;EACzB,gBAAgB,EAAE,OAAO;;AAG7B,QAAQ;EACJ,OAAO,EAAE,MAAM;;ACbnB,IAAI;EACF,WAAW,EAAE,wBAAwB;EACrC,SAAS,EAAE,KAAK",
+"sources": ["../scss/colors/_sass-material-colors-function.scss","../scss/components/splash.scss","../scss/main.scss"],
+"names": [],
+"file": "main.css"
+}
